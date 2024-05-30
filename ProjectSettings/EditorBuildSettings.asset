@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/Opciones.unity
+    guid: 6114cb89d7fd0dc448485215f9e7533f
+  - enabled: 1
+    path: Assets/Scenes/GameGuillermo/PuntuacionGuillermo.unity
+    guid: 6bddbb09c40790641a74076265cd2ae5
+  - enabled: 1
+    path: Assets/Scenes/GameGuillermo/Jungle Drive.unity
+    guid: 8ea58da064312574bbabdd4f6601fca9
+  - enabled: 1
+    path: Assets/Scenes/GameIzan/Izan Game.unity
+    guid: 208f3cd0d7588b74788d843308e53065
+  - enabled: 1
+    path: Assets/Scenes/GameIzan/PuntuacionIzan.unity
+    guid: f1ac3d1f33888ff45983eef21cb92b3c
+  - enabled: 1
+    path: Assets/Scenes/EscenaFinal.unity
+    guid: 53f50b7fa8e0acc4493a0e8a8cc34349
+  - enabled: 1
+    path: Assets/Minigames/ARGame Angie/PuntuacionAngie.unity
+    guid: 5ef7680915b53ef40822fdb353c9438a
+  - enabled: 1
+    path: Assets/Minigames/ARGame Angie/WildFruits.unity
+    guid: 53a7af36ca550e546a12435e164a6b06
+  - enabled: 1
+    path: Assets/Minigames/Game Antonio/Juego.unity
+    guid: 2e1c8f803f19bb749b6abbe753125be7
+  - enabled: 1
+    path: Assets/Minigames/Game Antonio/PuntuacionAntonio.unity
+    guid: a64eb11de9cab1b48b199c62ca4a74d8
+  - enabled: 1
+    path: Assets/Scenes/VRGame/Sleepy Monkeys.unity
+    guid: 7c9cae8b743d68a42aae71c3fd068bb0
+  - enabled: 1
+    path: Assets/Scenes/VRGame/PuntuacionGege.unity
+    guid: 3985bf4f178b76242a4326b1d28fad25
+  m_configObjects:
+    Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: 6fa9f6b7972817246a9864eb2529b5c0,
+      type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0f39ed887917ef545afd305f8ce69df6,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 11b9a5c3e7685ff4abd8a9f706244717,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 425f07033e55a864c9eab600e5f1d4d2,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e97a64d0696b7ec41b528c0bb5e5dc14,
+      type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 2da2660b2c8b82e42bf363ffcef8d15a, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a95f57dcd56663d4bb4e60c1cc80f150,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: f384f83dce9442f449873f1243723c0b, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 908a60794ce156a4ba59cb2dcc82e737, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 8e5ff77c4cb7cef438c2fae43e3f7e77,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 387d42fd48881a94db35fcd94eabc432,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f433c2faa0d526241bf0d6b801f477f3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2276f6f3ee3436042a995ac0676fee89,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 696dfd8977a725b46bf82db448ab2199,
+      type: 2}
